@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cranial490
-- 👀 I’m interested in Finance, Trading, Reinforcement Learning
+- 👀 I’m interested in Finance, Trading, Reinforcement Learning and ArTiFiciAl InTelLigEnce
 - 📫 Email: pranjal.paliwal490@gmail.com
 
 <!---
