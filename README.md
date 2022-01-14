@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cranial490
+- 👋 Hi, I’m Pranjal Paliwal
 - 👀 I’m interested in Finance, Trading, Reinforcement Learning.
 - 📫 Email: pranjal.paliwal490@gmail.com
 
