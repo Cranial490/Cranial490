@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Pranjal Paliwal
-- 👀 I’m interested in Finance, Trading, Reinforcement Learning.
-- 📫 Email: pranjal.paliwal490@gmail.com
-
-<!---
-Cranial490/Cranial490 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Projects
+- [VClite](https://github.com/Cranial490/VCliteWorkspace) is a peer to peer trading platform meant mainly for pre-IPO shares.
+- [QuantWorks](https://github.com/Cranial490/QuantWorks) is a python wrapper to test and deploy trading strategies in live market.
+- [Dynamic Pruning](https://github.com/ajlewis02/MLGroupProject) a method for pruning neural networks online.
+- [RL on Graphs](https://github.com/Cranial490/RL_On_Graphs) Implementing Reinforcement learning algorithms consodering graph data structures as MDP.
+---
